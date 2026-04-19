@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": 1,
+    "source": "C:\\Users\\viren\\OneDrive\\Desktop\\college project\\Medlens-the-prescription-assistant-\\xyz\\Headache.pdf",
+    "text": "1. Headache  \u2013 Paracetamol, Ibuprofen  \n2. Fever  \u2013 Paracetamol, Ibuprofen  \n3. Common Cold  \u2013 Cetirizine, Pseudoephedrine, Paracetamol  \n4. Cough  \u2013 Dextromethorphan, Ambroxol  \n5. Sore Throat  \u2013 Lozenges (Amylmetacresol), Paracetamol  \n6. Indigestion  \u2013 Antacids (Omeprazole, Ranitidine)  \n7. Acidity / Heartburn  \u2013 Pantoprazole, Famotidine  \n8. Diarrhea  \u2013 ORS (Oral Rehydration Solution), Loperamide  \n9. Constipation  \u2013 Lactulose, Isabgol (Psyllium husk)",
+    "length": 459
+  },
+  {
+    "chunk_id": 2,
+    "source": "C:\\Users\\viren\\OneDrive\\Desktop\\college project\\Medlens-the-prescription-assistant-\\xyz\\Headache.pdf",
+    "text": "10. Nausea / Vomiting  \u2013 Domperidone, Ondansetron  \n11. Allergies  \u2013 Cetirizine, Loratadine  \n12. Skin Rash  \u2013 Calamine lotion, Hydrocortisone cream  \n13. Muscle Pain  \u2013 Diclofenac gel, Ibuprofen  \n14. Joint Pain  \u2013 Naproxen, Aceclofenac  \n15. Toothache  \u2013 Paracetamol, Ibuprofen  \n16. Eye Irritation  \u2013 Artificial tears, Antihistamine eye drops  \n17. Ear Pain  \u2013 Paracetamol, Antibiotic drops (if prescribed)  \n18. Minor Burns  \u2013 Silver sulfadiazine cream, Aloe vera gel",
+    "length": 471
+  },
+  {
+    "chunk_id": 3,
+    "source": "C:\\Users\\viren\\OneDrive\\Desktop\\college project\\Medlens-the-prescription-assistant-\\xyz\\Headache.pdf",
+    "text": "19. Minor Cuts / Wounds  \u2013 Antiseptic solution (Dettol, Savlon), Antibiotic \nointment  \n20. Dizziness  \u2013 Meclizine, Dimenhydrinate  \n21. Insomnia (Mild)  \u2013 Melatonin supplements, Chamomile tea  \n22. Anxiety (Mild)  \u2013 Herbal remedies (Ashwagandha, Valerian root)  \n23. Seasonal Flu  \u2013 Paracetamol, Antihistamines  \n24. Gastric Ulcer (Mild)  \u2013 Omeprazole, Pantoprazole  \n25. Migraine  \u2013 Sumatriptan, Paracetamol, Ibuprofen",
+    "length": 420
+  }
+]
